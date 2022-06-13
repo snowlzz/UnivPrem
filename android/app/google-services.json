@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636230271610",
+    "project_id": "univprem",
+    "storage_bucket": "univprem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636230271610:android:c3fe8eeae5f89f8c23b1c3",
+        "android_client_info": {
+          "package_name": "com.example.univprem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636230271610-v256pcdgl4ujv5h07c8tavpjv30363g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpLdL9hwsz3lmStAJZQDllvoCHD5WWEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636230271610-v256pcdgl4ujv5h07c8tavpjv30363g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
